@@ -42,23 +42,8 @@ It generates personalized trips using AI, suggests hotels and new places, and di
 
 ---
 
-## 🌟 Future Work
-
-- Add user authentication (login/signup with Firebase Auth)
-- Allow users to customize and edit AI-generated trips
-- Save multiple trip plans under a user profile
-- Add real-time weather information for travel locations
-- Allow users to add notes, images, and ratings for places
-- Trip sharing feature (share with friends or family)
-- Optimize AI prompts to generate even more personalized suggestions
-- Dark mode support for better user experience
-
----
 ## ✨ Future Improvements
 Add user authentication (login/signup with Firebase Auth)
-
 Let users customize the AI-generated trips
-
 Add ratings, reviews, and photo uploads for places
-
 Share trip plans with friends
